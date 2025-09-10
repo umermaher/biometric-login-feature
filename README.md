@@ -10,15 +10,15 @@ https://github.com/user-attachments/assets/b9a02cc8-65d6-4ccb-8206-4e0e1c67ba3e
 
 ✅ BiometricPromptManager – central class handling:
 
-Enable biometric authentication
+🔐 Enable Biometric Authentication
 
-Secure data encryption & storage
+🛡️ Secure Data Encryption & Storage – AES encryption with Android Keystore
 
-Biometric prompt for login
+👆 Biometric Login – seamless biometric authentication flow
 
-Data decryption
+🔓 Data Decryption – securely retrieve and decrypt stored credentials
 
-Key invalidation handling (when biometrics are added/removed)
+🧩 Handling Multiple Use-Cases
 
 # 🔑 Security Details
 
