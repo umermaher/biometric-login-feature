@@ -16,7 +16,7 @@ Data decryption
 
 Key invalidation handling (when biometrics are added/removed)
 
-🖼️ Flow Overview
+# 🖼️ Flow Overview
 
 Settings Screen
 
@@ -40,7 +40,7 @@ Biometric prompt is displayed
 
 On success → credentials decrypted & displayed (email + password)
 
-🔑 Security Details
+# 🔑 Security Details
 
 AES / CBC / PKCS7 used for encryption
 
@@ -50,4 +50,4 @@ Keys are stored securely in Android Keystore
 
 .setInvalidatedByBiometricEnrollment(true) ensures keys are invalidated if biometrics are added/removed
 
-Handles KeyPermanentlyInvalidatedException gracefully by regenerating keys
+Handles KeyPermanentlyInvalidatedException gracefully by regenerating key
