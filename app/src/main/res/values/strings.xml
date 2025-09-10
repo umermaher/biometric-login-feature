@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Biometric Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable_biometric_login">Enable Biometric Login</string>
+    <string name="enable_biometric_login_desc">Please authenticate to enable biometric login</string>
+    <string name="enable_biometric">Enable Biometric</string>
+    <string name="email">Email</string>
+    <string name="authentication_failed">Authentication Failed!</string>
+    <string name="feature_unavailable">Biometric Feature is not available in your device</string>
+    <string name="hardware_failed">Biometric feature is busy at the moment, might be busy on another app!!</string>
+    <string name="login">Login</string>
+    <string name="biometric">Biometric</string>
+    <string name="authentication_to_continue">Authenticate to continue</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="biometric_enrollment_changed_msg">Seems like you have changed your biometric enrollment, you need to login again to enable the Biometric!</string>
+    <string name="main">Main</string>
+    <string name="logout">Logout</string>
+</resources>
