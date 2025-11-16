@@ -1,6 +1,7 @@
 # 🔐 Biometric Login Feature Sample
 
 This repository demonstrates a complete biometric authentication flow in Android using BiometricPrompt and Android Keystore. It includes data encryption, decryption, and UI integration across multiple screens.
+https://medium.com/@umerrasheedmahar/biometric-login-how-it-works-and-its-implementation-in-android-114b53e83afd
 
 # 🖼️ Flow Overview
 
